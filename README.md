@@ -3,7 +3,7 @@
 - This website is about promoting avocado(s).
 - Readers get to click the CTA & enter their details to try avocado on toast. 🥑
 
-![screenshot](./AvocadoSite@1.png)
+![screenshot](./AvocadoWebsite.png)
 
 # Built with 🛠️:
 - HTML
