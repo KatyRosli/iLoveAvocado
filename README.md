@@ -7,6 +7,8 @@
 
 # Built with 🛠️:
 - HTML
+- CSS
+- Javascript
 
 # Live Demo:
 [Live Demo Link](https://festive-hawking-fee964.netlify.app/)
